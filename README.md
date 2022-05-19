@@ -1,4 +1,4 @@
-## EmpER'2022
+## EmpER 2022
 
 You can use the [editor on GitHub](https://github.com/EmpER-Workshop/2022/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
